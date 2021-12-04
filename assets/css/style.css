@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Merriweather:ital,wght@1,300&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: Merriweather, sans-serif;
+
+}
+
+h1, h2 {
+    font-family: Audiowide;
+}
+
+.navstyle {
+    background-color: black;
+    height: 60px;
+}
+
+
+.navflex {
+    display: flex;
+    flex-direction: row-reverse;
+    list-style: none;
+    justify-content: center;
+    justify-content: space-between;
+    padding-top: 20px;
+
+}
+
+.button {
+    background-color: #f6e710;
+    border-color: #f5d10d;
+    padding: 5px;
+    border-radius: 5px;
+    color: #020202;
+    text-decoration: none;
+    font-family: Audiowide;
+    
+    
+}
+
+
+
+
+
+
