@@ -14,28 +14,37 @@ h1, h2 {
 .navstyle {
     background-color: black;
     height: 60px;
+    align-items: center;
+     
 }
 
 
-.navflex {
+
+
+.navflex ul {
     display: flex;
+    padding: 20px;
     flex-direction: row-reverse;
     list-style: none;
     justify-content: center;
     justify-content: space-between;
-    padding-top: 20px;
-
 }
 
 .button {
     background-color: #f6e710;
+    border-width: 3px;
+    border-style: solid;
     border-color: #f5d10d;
-    padding: 5px;
+    padding: 0;
     border-radius: 5px;
     color: #020202;
     text-decoration: none;
     font-family: Audiowide;
-    
+}
+
+.button:hover {
+    background-color: #020202;
+    color: #f5d10d;
     
 }
 
