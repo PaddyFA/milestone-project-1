@@ -2,8 +2,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+   /* background-color: #181818;*/
     font-family: Merriweather, sans-serif;
+   
 
 }
 
@@ -11,23 +12,21 @@ h1, h2 {
     font-family: Audiowide;
 }
 
-.navstyle {
-    background-color: black;
-    height: 60px;
-    align-items: center;
-     
-}
+/*navigation position and style*/
 
 
-
-
-.navflex ul {
+.nav-container {
     display: flex;
-    padding: 20px;
-    flex-direction: row-reverse;
-    list-style: none;
+    flex-direction: row;
     justify-content: center;
     justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+
+.nav-container, .btn-box {
+    background-color: #020202;
+    
 }
 
 .button {
@@ -40,13 +39,10 @@ h1, h2 {
     color: #020202;
     text-decoration: none;
     font-family: Audiowide;
-}
-
-.button:hover {
-    background-color: #020202;
-    color: #f5d10d;
     
 }
+
+   
 
 
 
