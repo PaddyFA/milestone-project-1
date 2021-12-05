@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-   /* background-color: #181818;*/
+    background-color: #181818;
     font-family: Merriweather, sans-serif;
     text-align: center;
    
@@ -26,7 +26,7 @@ h1, h2 {
 }
 
 .nav-container, .btn-box {
-    background-color: #020202;
+    background-color: #181818;
     
 }
 
@@ -43,10 +43,16 @@ h1, h2 {
     
 }
 
+.btn-box {
+    font-family: Audiowide;
+}
+
 .button:hover {
     background-color: #020202;
     color: #f6e710;
 }
+/* validated css here and no errors found */
+
 
 /* hero image */
 
@@ -59,7 +65,7 @@ h1, h2 {
 
 #hero-outer .hero-image {
     position: absolute;
-    background: url('../images/instrument-pic-1.jpeg');
+    background: url('../images/music-sheet.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -73,7 +79,51 @@ h1, h2 {
     padding-top: 100px;
 }
 
+.content {
+    color: #f6e710;
+    text-shadow: 3px 3px #020202;
+    font-size: larger;
+    font-family: Audiowide;
+    
+}
 
+.content p {
+    color: #f6e710;
+    text-shadow: 2px 2px #020202;
+    font-weight: bold;
+    padding: 50px;
+}
+
+/* section 1 */
+
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.about h2 {
+    color: #f6e710;
+    text-shadow: 3px 3px #020202;
+    font-size: xx-large
+
+}
+
+.about p {
+    color: #f6e710;
+    padding: 20px 40px;
+    
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
    
    
     
