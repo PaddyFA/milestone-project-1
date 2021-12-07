@@ -280,7 +280,30 @@ h1, h2 {
 /* no errors found with W3c school validater */
 
 
+
+/* courses page css */
+
+.drums {
+    display: flex;
+
+}
+
+
+
+
+.guitar {
+    display: flex;
+}
+
+
+.piano {
+    display: flex;
+}
    
+
+.violin {
+    display: flex;
+}
 
 
 
