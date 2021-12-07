@@ -203,7 +203,6 @@ h1, h2 {
     height: 250px;
     flex: 1;
     border-radius: 40px;
-    padding-top: 50;
     margin-top: 50px;
    
 
@@ -229,10 +228,6 @@ h1, h2 {
    
 }
 
-/*.contact th td {
-    padding: 15px;
-    text-align: left;
-}*/
 
 
    
@@ -282,7 +277,7 @@ h1, h2 {
 
 
 
-
+/* no errors found with W3c school validater */
 
 
    
