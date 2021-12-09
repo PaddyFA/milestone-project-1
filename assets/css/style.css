@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Merriweather:ital,wght@1,300&display=swap');
 body {
-    margin: 0;
+    margin: 10px;
     padding: 0;
-    background-color: #181818;
+    background-color: #181818; 
     font-family: Merriweather, sans-serif;
     text-align: center;
    
@@ -119,6 +119,7 @@ img {
     font-size: 20px;
     
 }
+
 .instrument-image {
     position: relative;
 }
@@ -126,7 +127,7 @@ img {
 .instrument-image img {
     display: block;
     max-width: 100%;
-    max-height: 100%;
+    max-height: auto;
     margin-left: auto;
     margin-right: auto;
     border-radius: 40px;
@@ -245,6 +246,11 @@ img {
 
 /* footer */
 
+.footer {
+    border: 2px solid #f6e710;
+    border-radius: 40px;
+}
+
 .social-links {
     display: flex;
     flex-direction: row-reverse;
@@ -264,6 +270,9 @@ img {
     color: #020202;
     text-decoration: none;
     font-family: Audiowide;
+    
+   
+   
 }
 
 .social-links a:hover {
@@ -279,6 +288,7 @@ img {
 .footer p {
     text-align: left;
     color: #f6e710;
+    margin-left: 10px;
 }
 
 
@@ -289,16 +299,141 @@ img {
 
 /* courses page css */
 
-#section-courses {
+.section-courses {
     padding: 2em 1em 1em;
 }
 
-#section-courses ul {
+.section-courses ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
+/* form */
+
+.form-outer li, .form-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.form-outer > li > label,
+.form-outer li p {
+  flex: 1 0 120px;
+  max-width: 220px;
+}
+
+.form-outer li button {
+    margin-left: auto;
+    padding: 8px 16px;
+    border: none;
+    background: #181818;
+    color: #f2f2f2;
+    text-transform: uppercase;
+    letter-spacing: .09em;
+    border-radius: 2px;
+  }
+ 
+.form-outer > li > label + *,
+.form-inner {
+  flex: 1 0 220px;
+}
+
+.form-inner li {
+    width: 150px;
+  }
+
+
+
+  .form-inner {
+    padding: 0 8px;
+    justify-content: space-between;  
+  }
+
+.sign-up h2 {
+    color: #f6e710;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #f6e710;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+  }
+  
+  .container * {
+    box-sizing: border-box;
+  }
+
+  .form-outer,
+.form-inner {
+  list-style-type: none;
+  padding: 0;
+}
+
+.form-outer {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.form-outer li,
+.form-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.form-outer > li:not(:last-child) {
+    margin-bottom: 20px;
+  }
+  
+  .form-outer li label,
+  .form-outer li p {
+    padding: 0;
+    font-weight: 300;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+    font-family: Audiowide;
+  }
+  
+  
+  .form-outer > li > label + *,
+  .form-inner {
+    flex: 1 0 220px;
+  }
+  
+  .form-outer li p {
+    margin: 0;
+  }
+  
+  .form-outer li input:not([type='checkbox']),
+  .form-outer li textarea {
+    padding: 15px;
+    border: none;
+    margin-top: 20px;
+  }
+  
+  .form-outer li button {
+    margin-left: auto;
+    padding: 8px 16px;
+    border: none;
+    background: #181818;
+    color: #f2f2f2;
+    text-transform: uppercase;
+    letter-spacing: .09em;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    font-family: Audiowide;
+  }
+  
+  .form-inner li {
+    width: 100px;
+  }
+
+/* media Queries */
 
 @media (min-width: 700px) {
     
@@ -324,5 +459,34 @@ img {
         object-fit: cover;
         border-radius: 40px;
         padding-bottom: 20px;
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .flex .instrument-image {
+        height: 300px;
+        width: 100%;
+        padding-top: 20px;
+    }
+
+    .about {
+        padding-top: 20px;
+    }
+
+    .social-links a {
+        background-color: #f6e710;
+        border-width: 3px;
+        border-style: solid;
+        border-color: #f5d10d;
+        padding: 0;
+        border-radius: 5px;
+        color: #020202;
+        text-decoration: none;
+        font-family: Audiowide;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
