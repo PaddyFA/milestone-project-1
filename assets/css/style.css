@@ -178,7 +178,7 @@ img {
    
     
 }
-/* validated css here and no errors found */
+
 
 /* opening times and contact*/
 
@@ -291,9 +291,6 @@ img {
     margin-left: 10px;
 }
 
-
-
-/* no errors found with W3c school validater */
 
 
 
@@ -433,6 +430,22 @@ img {
     width: 100px;
   }
 
+  
+  
+
+  /* thank you page */
+
+
+  .thankyou {
+      height: 300px;
+      width: 100%;
+      text-align: center;
+      margin-top: 150px;
+      color: #f6e710;
+  }
+
+  
+
 /* media Queries */
 
 @media (min-width: 700px) {
@@ -469,7 +482,7 @@ img {
     .flex .instrument-image {
         height: 300px;
         width: 100%;
-        padding-top: 20px;
+        padding-top: 50px;
     }
 
     .about {
@@ -490,3 +503,6 @@ img {
         margin-right: 10px;
     }
 }
+
+
+/* Validated code and no errors found, only an import error that the validator wont check */
