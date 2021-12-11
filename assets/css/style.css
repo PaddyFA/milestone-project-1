@@ -139,7 +139,7 @@ img {
 
 .opening-times {
     flex: 1;
-    margin-top: 50px;
+    margin-top: 150px;
     background-color: #f6e710;
     font-size: larger;
    
@@ -148,8 +148,8 @@ img {
 
 #contact {
     flex: 1;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
     color: #f6e710;
     font-size: larger;
    
