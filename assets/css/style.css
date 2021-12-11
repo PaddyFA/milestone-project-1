@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Merriweather:ital,wght@1,300&display=swap');
 body {
-    margin: 10px;
+    margin: 0;
     padding: 0;
     background-color: #181818; 
     font-family: Merriweather, sans-serif;
@@ -116,7 +116,7 @@ img {
 
 .about p {
     color: #f6e710;
-    padding: 20px 40px;
+    padding-top: 80px;
     font-size: 15px;
     
 }
@@ -159,7 +159,7 @@ img {
 #contact h3 {
     font-family: Audiowide;
     color: #f6e710;
-    padding-top: 130px;
+    padding-top: 100px;
 }
 
 .opening-times table {
@@ -170,7 +170,7 @@ img {
 }
 
 .opening-times h3 {
-    padding: 20px;
+    padding: 40px;
     font-family: Audiowide;
    
 }
@@ -364,9 +364,7 @@ img {
     width: 100px;
   }
 
-  .form-inner li button {
-      
-  }
+  
 
   
   
@@ -388,11 +386,17 @@ img {
 
 @media (min-width: 700px) {
     
+    body {
+
+        margin: 10px;
+
+    
+    }
 
     #part-3{
         display: flex;
         flex-direction: column;
-        height: 1000px;
+        height: 900px;
         margin-top: 20px;
     }
     
