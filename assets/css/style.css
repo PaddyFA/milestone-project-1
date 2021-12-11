@@ -93,7 +93,7 @@ img {
     text-shadow: 2px 2px #020202;
     font-weight: bold;
     padding: 50px;
-    font-size: larger;
+    font-size: large;
     
 }
 
@@ -110,14 +110,14 @@ img {
     color: #f6e710;
     text-shadow: 3px 3px #020202;
     font-size: xx-large;
-    padding-top: 40px;
+    padding-top: 80px;
 
 }
 
 .about p {
     color: #f6e710;
     padding: 20px 40px;
-    font-size: 20px;
+    font-size: 15px;
     
 }
 
@@ -139,7 +139,7 @@ img {
 
 .opening-times {
     flex: 1;
-    margin-top: 150px;
+    margin-top: 30px;
     background-color: #f6e710;
     font-size: larger;
    
@@ -443,6 +443,26 @@ img {
         font-family: Audiowide;
         margin-left: 10px;
         margin-right: 10px;
+    }
+
+    .about p {
+        font-size: 20px;
+    }
+
+    .content p {
+        color: #f6e710;
+        text-shadow: 2px 2px #020202;
+        font-weight: bold;
+        padding: 50px;
+        font-size: larger;
+    }
+
+    .about h2 {
+        color: #f6e710;
+        text-shadow: 3px 3px #020202;
+        font-size: xx-large;
+        padding-top: 40px;
+    
     }
 }
 
