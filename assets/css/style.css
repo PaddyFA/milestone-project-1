@@ -141,7 +141,7 @@ img {
     flex: 1;
     margin-top: 50px;
     background-color: #f6e710;
-    font-size: large
+    font-size: larger;
    
     
 }
@@ -151,7 +151,7 @@ img {
     margin-top: 50px;
     margin-bottom: 50px;
     color: #f6e710;
-    font-size: large;
+    font-size: larger;
    
 
 }
@@ -159,7 +159,7 @@ img {
 #contact h3 {
     font-family: Audiowide;
     color: #f6e710;
-    padding-top: 20px;
+    padding-top: 80px;
 }
 
 .opening-times table {
