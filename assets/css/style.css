@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Merriweather:ital,wght@1,300&display=swap');
 body {
-    margin: 0;
+    margin: 15px;
     padding: 0;
     background-color: #181818; 
     font-family: Merriweather, sans-serif;
