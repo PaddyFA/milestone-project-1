@@ -146,7 +146,7 @@ img {
     
 }
 
-.contact {
+#contact {
     flex: 1;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -156,7 +156,7 @@ img {
 
 }
 
-.contact h3 {
+#contact h3 {
     font-family: Audiowide;
     color: #f6e710;
     padding-top: 20px;
@@ -178,7 +178,7 @@ img {
 
 
    
-.contact table {
+#contact table {
     color: #f6e710;
     margin: 0 auto;
     padding-top: 20px;
