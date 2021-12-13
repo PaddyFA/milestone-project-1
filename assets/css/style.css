@@ -225,6 +225,10 @@ img {
    
 }
 
+.social-links p {
+    color: #f6e710;
+}
+
 .social-links a:hover {
     background-color: #020202;
     color: #f6e710;
@@ -270,6 +274,7 @@ img {
     border-radius: 2px;
     margin: 5px;
     border-radius: 5px;
+    font-family: Audiowide;
   }
  
 
@@ -321,12 +326,7 @@ img {
   margin: 0 auto;
 }
 
-.form-outer li,
-.form-inner {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-}
+
 
 .form-outer > li:not(:last-child) {
     margin-bottom: 20px;
