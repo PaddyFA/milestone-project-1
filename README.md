@@ -11,3 +11,15 @@ You can view the deployed site [here](https://paddyfa.github.io/milestone-projec
 
 ### The Strategy Plane
 
+O C Music is a site intended to bring a user a music teaching service. The site was designed in a format that a muscian might use as a band profile. 
+
+#### Goals of the Site
+
+* To provide access to O C school of Music services.
+* To create a responsive site to view on all devices.
+* To ensure site is easily navigated.
+* To preview different courses available.
+* To provide contact information about the school
+* To provide opening times of the school
+* To link the site to the schools social media links
+* To have easy accesabilty for screen readers.
