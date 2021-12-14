@@ -52,3 +52,22 @@ As a site owner I want:
 
 
 ## Structure
+
+* There is an easy to use site with everything that the user needs.
+* The home page has all relative contact info and opening times.
+* The courses page provides info and fees for each of the 4 courses displayed.
+* The sign up page has a quick Name, Email, Message and instrument fields on the form.
+* Links in the footer to provide access to all social media of the school
+
+
+## Skeleton
+
+Wireframes were used in the design of the site they were created using balsamiq. 
+
+### Home page
+<p float="left">
+<img src="assets/images/wireframe-home-iphone.png" width="100" height="150">
+<img src="assets/images/wireframe-home-ipad.png" width="100" height="150">
+<img src="assets/images/wireframe-home-browser.png" width="100" height="150">
+</p>
+
