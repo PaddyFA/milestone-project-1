@@ -66,8 +66,8 @@ Wireframes were used in the design of the site they were created using balsamiq.
 
 ### Home page
 <p float="left">
-<img src="assets/images/wireframe-home-iphone.png" width="100" height="150">
-<img src="assets/images/wireframe-home-ipad.png" width="100" height="150">
-<img src="assets/images/wireframe-home-browser.png" width="100" height="150">
+<img src="assets/images/wireframe-home-iphone.png" width="200" height="300">
+<img src="assets/images/wireframe-home-ipad.png" width="200" height="300">
+<img src="assets/images/wireframe-home-browser.png" width="200" height="300">
 </p>
 
