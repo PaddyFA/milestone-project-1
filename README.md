@@ -23,3 +23,32 @@ O C Music is a site intended to bring a user a music teaching service. The site 
 * To provide opening times of the school
 * To link the site to the schools social media links
 * To have easy accesabilty for screen readers.
+
+### User Stories
+
+As a user I want:
+
+* To easily navigate the site.
+* Know some info about the school.
+* Be able to find contact details easily.
+* To get some info on what the school teaches.
+* To have an idea of fees charged.
+
+
+As a site owner I want: 
+
+* To navigate the site easily.
+* For information to clear.
+* To make the school more accessable to a wider population.
+* The site to increase business for the school.
+
+
+## Scope
+
+* I went for simple easy to use site.
+* I wanted a site that would be similar looking to a band profile.
+* I wanted a site that looks good on all devices.
+* I wanted the site to have a clear simple contact and sign up sections.
+
+
+## Structure
