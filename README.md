@@ -7,7 +7,7 @@ My goals in creating this website was to bring attention and gain business for a
 
 You can view the deployed site [here](https://paddyfa.github.io/milestone-project-1/)
 
-## ux 
+# ux 
 
 ### The Strategy Plane
 
@@ -87,6 +87,10 @@ Wireframes were used in the design of the site they were created using balsamiq.
 <img src="assets/images/wireframe-signup-ipad.png" width="200" height="300">
 <img src="assets/images/wireframe-signup-browser.png" width="200" height="300">
 </p>
+
+
+## Features of the Site
+
 
 
 
