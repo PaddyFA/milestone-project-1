@@ -65,9 +65,31 @@ As a site owner I want:
 Wireframes were used in the design of the site they were created using balsamiq. 
 
 ### Home page
+
 <p float="left">
 <img src="assets/images/wireframe-home-iphone.png" width="200" height="300">
 <img src="assets/images/wireframe-home-ipad.png" width="200" height="300">
 <img src="assets/images/wireframe-home-browser.png" width="200" height="300">
 </p>
+
+### Courses page
+
+<p float="left">
+<img src="assets/images/wireframe-courses-iphone.png" width="200" height="300">
+<img src="assets/images/wireframe-courses-ipad.png" width="200" height="300">
+<img src="assets/images/wireframe-courses-browser.png" width="200" height="300">
+</p>
+
+### Signup page
+
+<p float="left">
+<img src="assets/images/wireframe-signup-iphone.png" width="200" height="300">
+<img src="assets/images/wireframe-signup-ipad.png" width="200" height="300">
+<img src="assets/images/wireframe-signup-browser.png" width="200" height="300">
+</p>
+
+
+
+
+
 
