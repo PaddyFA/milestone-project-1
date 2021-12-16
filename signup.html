@@ -12,13 +12,10 @@
 <body>
     <header class="nav-container">
         <div class="btn-box">
-            <a href="signup.html" class="button" aria-label="go to sign-up page">Sign Up</a>
+            <a href="signup.html" class="button" aria-label="go to contact page">Contact</a>
         </div>
         <div class="btn-box">
             <a href="courses.html" class="button" aria-label="go to courses page">Courses</a> 
-        </div>
-        <div class="btn-box">
-            <a href="index.html#contact" class="button" aria-label="go to contact section">Contact</a>
         </div>
         <div class="btn-box">
             <a href="index.html" class="button" aria-label="go to home page">Home</a>
@@ -27,7 +24,7 @@
 
     <section class=sign-up>
 
-        <h2>Sign Up!!</h2>
+        <h2>Contact Us</h2>
    
         <div class="container">
         <form action="thankyou.html"> 
@@ -35,35 +32,35 @@
             <ul class="form-outer">
               <li>
                 <label for="first-name">Name</label>
-                <input type="text" id="first-name" placeholder="Enter your name here" required>
+                <input class="placeholder" type="text" id="first-name" placeholder="Enter your name here" required>
               </li>
             
               <li>
                 <label for="email">Email</label>
-                <input type="email" id="email" placeholder="Enter your email here" required>
+                <input class="placeholder" type="email" id="email" placeholder="Enter your email here" required>
               </li>
              
               <li>
                 <label for="message">Message</label>
-                <textarea rows="6" id="message" placeholder="Enter your message here"></textarea>
+                <textarea class="placeholder" rows="6" id="message" placeholder="Enter your message here (optional)"></textarea>
               </li>
               <li>
                 <p>Instrument</p>
                 <ul class="form-inner">
                     <li>
-                        <input type="radio" id="drums" name="guitar" >
+                        <input type="radio" id="drums" name="guitar" required >
                         <label for="drums">Drums</label>
                       </li>
                       <li>
-                        <input type="radio" id="guitar" name="guitar" >
+                        <input type="radio" id="guitar" name="guitar" required>
                         <label for="guitar">Guitar</label>
                       </li>
                       <li>
-                        <input type="radio" id="piano" name="guitar" >
+                        <input type="radio" id="piano" name="guitar" required>
                         <label for="piano">Piano</label>
                       </li>
                       <li>
-                        <input type="radio" id="violin" name="guitar" >
+                        <input type="radio" id="violin" name="guitar" required>
                         <label for="violin" >Violin</label>
                       </li>
                   

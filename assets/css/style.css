@@ -40,7 +40,7 @@ img {
     color: #020202;
     text-decoration: none;
     font-family: Audiowide;
-    margin-left: 4px;
+    margin-left: 6px;
     
 }
 
@@ -113,6 +113,7 @@ img {
     text-shadow: 3px 3px #020202;
     font-size: xx-large;
     padding-top: 80px;
+    margin-top: 50px;
 
 }
 
@@ -123,6 +124,11 @@ img {
     padding-top: 40px;
     
 }
+
+iframe {
+   
+}
+
 
 
 
@@ -275,7 +281,7 @@ img {
 
 .container {
     height: auto;
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
     background-color: #f6e710;
     margin-top: 30px;
@@ -334,6 +340,11 @@ img {
   
   .form-inner li {
     width: 100px;
+  }
+
+  .placeholder::placeholder{
+      font-family: Audiowide;
+
   }
 
   
@@ -429,7 +440,7 @@ img {
         color: #f6e710;
         text-shadow: 2px 2px #020202;
         font-weight: bold;
-        padding: 50px;
+        padding: 30px;
         font-size: larger;
     }
 
@@ -443,6 +454,9 @@ img {
 }
 
 @media only screen and (max-width: 600px) {
+
+  
+    
 
     iframe {
 
