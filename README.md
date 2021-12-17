@@ -48,15 +48,15 @@ As a site owner I want:
 * I went for simple easy to use site.
 * I wanted a site that would be similar looking to a band profile.
 * I wanted a site that looks good on all devices.
-* I wanted the site to have a clear simple contact and sign up sections.
+* I wanted the site to have a clear simple contact section.
 
 
 ## Structure
 
 * There is an easy to use site with everything that the user needs.
-* The home page has all relative contact info and opening times.
+* The home page has a video and a bit about the school.
 * The courses page provides info and fees for each of the 4 courses displayed.
-* The sign up page has a quick Name, Email, Message and instrument fields on the form.
+* The contact page has a quick Name, Email, Message and instrument fields on the form.
 * Links in the footer to provide access to all social media of the school
 
 
@@ -130,8 +130,45 @@ The opening times section lets the user know of times that the school is open an
 
 <img src="assets/images/footer.png">
 
-The footer contains a copyright message on the left hand side and has 4 social media links centered in the middle. Every link when clicked will open a new tab and direct the user to the relevent social media site.
+The footer contains a copyright message on the left hand side and has 4 social media links centered in the middle. Every link when clicked will open a new tab and direct the user to the relevent social media site. The footer apears on all pages in the site.
 
 
+## Courses Page
+
+The courses page is fully responsive and is a page that provides info on types of instruments, fees for courses and whether equipment will be needed there are 4 sections:
+
+###  Drums
+
+<img src="assets/images/drums.png">
+
+### Guitar
+
+<img src="assets/images/guitarr.png">
+
+### Piano
+
+<img src="assets/images/piano.png">
+
+### Violin
+
+<img src="assets/images/violinr.png">
 
 
+## Contact Page
+
+The contact page is made up of a simple form. It has a Name, Email, Message and Instrument fields all info is required for all fields except the message is optional. After submitting a request a thank you page appears conforming the submit.
+
+<img src="assets/images/form.png">
+
+
+## Design Features 
+
+### Colors Used
+
+I went for a yellow and black color design for my page I think the two contrast each other well.
+
+<img src="assets/images/colors.png">
+
+The two fonts used were Audiowide and Merriweather, 
+
+<img src="assets/images/fonts.png">
