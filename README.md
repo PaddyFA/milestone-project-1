@@ -111,6 +111,17 @@ I picked a music sheet as a landing image for my site it appears in only the hom
 
 <img src="assets/images/aboutsection.png">
 
+In the about section it describes a little bit about the company and what kind of courses they have to offer. Things that  the user might be interested knowing, for example the shows they put on and what you can learn. There is also a video embeded is of a band called Explosions in the sky and the song your hand in mine which I think demonstrates some good examples of of good quality music playing.
+
+
+### Opening Times
+
+<img src="assets/images/openingtimes.png">
+
+The opening times section lets the user know of times that the school is open and when they are closed this can be updated for bank holidays, it has a yellow background and black color and stands out to the user.
+
+
+
 
 
 
