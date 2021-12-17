@@ -95,14 +95,21 @@ Wireframes were used in the design of the site they were created using balsamiq.
 
 <img src="assets/images/navbar.png">
 
-The nav bar has 4 different buttons, a home button to return to home page. A contact button that links straight to the contact section on the same page. The courses button links to a page with a preview of 4 different courses the school has to offer and the sign up page is a page to input info to query any course availability. It is the same across all pages and full responsive on all devices.
+The nav bar has 4 different buttons, a home button to return to home page. A contact button that links straight to the contact section on the same page. The courses button links to a page with a preview of 4 different courses the school has to offer and the sign up page is a page to input info to query any course availability. It is the same across all pages and full responsive on all devices. I have since changed this nav bars background color to yellow to create more of a flow in the page. I also removed one of the 4 buttons and now just have a Home, Contact and Courses buttons.
+
+
+## Home Page
+
 
 ### Landing Picture
 
 <img src="assets/images/landingimage.png">
 
-I picked a music sheet as a landing image for my site it appears in only the home page and is fully responive on all devices.
+I picked a music sheet as a landing image for my site it appears in only the home page and is fully responive on all devices I think it conveys a music school quite well.
 
+### About Section
+
+<img src="assets/images/aboutsection.png">
 
 
 
