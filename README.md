@@ -169,6 +169,6 @@ I went for a yellow and black color design for my page I think the two contrast 
 
 <img src="assets/images/colors.png">
 
-The two fonts used were Audiowide and Merriweather, 
+The two fonts used were Audiowide and Merriweather, I think they compliment each other well and the Audiowide font I think is an especially good font for a music site.
 
 <img src="assets/images/fonts.png">
