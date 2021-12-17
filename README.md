@@ -93,9 +93,10 @@ Wireframes were used in the design of the site they were created using balsamiq.
 
 ### Nav bar:
 
-<img src="assets/images/navbar.png">
+<img src="assets/images/navbar.png">  
 
-The nav bar has 4 different buttons, a home button to return to home page. A contact button that links straight to the contact section on the same page. The courses button links to a page with a preview of 4 different courses the school has to offer and the sign up page is a page to input info to query any course availability. It is the same across all pages and full responsive on all devices. I have since changed this nav bars background color to yellow to create more of a flow in the page. I also removed one of the 4 buttons and now just have a Home, Contact and Courses buttons.
+The nav bar has 4 different buttons, a home button to return to home page. A contact button that links straight to the contact section on the same page. The courses button links to a page with a preview of 4 different courses the school has to offer and the sign up page is a page to input info to query any course availability. It is the same across all pages and full responsive on all devices. I have since changed this nav bars background color to yellow to create more of a flow in the page. I also removed one of the 4 buttons and now just have a Home, Contact and Courses buttons. you can see all changes to pages in the changes section of the readme.
+
 
 
 ## Home Page
@@ -111,7 +112,7 @@ I picked a music sheet as a landing image for my site it appears in only the hom
 
 <img src="assets/images/aboutsection.png">
 
-In the about section it describes a little bit about the company and what kind of courses they have to offer. Things that  the user might be interested knowing, for example the shows they put on and what you can learn. There is also a video embeded is of a band called Explosions in the sky and the song your hand in mine which I think demonstrates some good examples of of good quality music playing.
+In the about section it describes a little bit about the company and what kind of courses they have to offer. Things that  the user might be interested knowing, for example the shows they put on and what you can learn. There is also a video embeded and is of a band called Explosions in the sky and the song your hand in mine which I think demonstrates some good examples of of good quality music playing.
 
 
 ### Opening Times
@@ -121,6 +122,15 @@ In the about section it describes a little bit about the company and what kind o
 The opening times section lets the user know of times that the school is open and when they are closed this can be updated for bank holidays, it has a yellow background and black color and stands out to the user.
 
 
+
+
+### Footer 
+
+
+
+<img src="assets/images/footer.png">
+
+The footer contains a copyright message on the left hand side and has 4 social media links centered in the middle. Every link when clicked will open a new tab and direct the user to the relevent social media site.
 
 
 
