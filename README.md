@@ -178,3 +178,35 @@ The two fonts used were Audiowide and Merriweather, I think they compliment each
 <img src="assets/images/navhover.png">  <img src="assets/images/footerhover.png">
 
 All buttons on both the nav bar and footer all have a hover feature and change color when hovered over.
+
+
+## Validation
+
+### HTML:
+
+All code was validated for html using W3c schools html valiadtor and you can view screenshots here:
+
+* [Home Page](assets/images/homevalidator.png)
+* [Courses Page](assets/images/coursesvalidator.png)
+* [Contact Page](assets/images/contactvalidator.png)
+* [Thank You Page](assets/images/thankyouvalidator.png)
+
+### CSS
+
+
+All code was validated for css using W3c schools css valiadtor and you can view screenshot here:
+
+* [CSS](assets/images/cssvalidator.png)
+
+
+### Accessibility 
+
+All accessibility was checked using wave and all passed with only one alert to say there was an iframe on the page.
+
+* [Accessibility](assets/images/accessibilityvalidator.png)
+
+
+
+
+
+
