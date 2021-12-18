@@ -93,9 +93,9 @@ Wireframes were used in the design of the site they were created using balsamiq.
 
 ### Nav bar:
 
-<img src="assets/images/navbar.png">  
+<img src="assets/images/navbar2.png">  
 
-The nav bar has 4 different buttons, a home button to return to home page. A contact button that links straight to the contact section on the same page. The courses button links to a page with a preview of 4 different courses the school has to offer and the sign up page is a page to input info to query any course availability. It is the same across all pages and full responsive on all devices. I have since changed this nav bars background color to yellow to create more of a flow in the page. I also removed one of the 4 buttons and now just have a Home, Contact and Courses buttons. you can see all changes to pages in the changes section of the readme.
+The nav bar has 3 different buttons, a home button to return to home page, a contact button that links straight to the contact page, the courses button links to a page with a preview of 4 different courses the school has to offer. It is the same across all pages and full responsive on all devices. 
 
 
 
@@ -201,7 +201,7 @@ All code was validated for css using W3c schools css valiadtor and you can view 
 
 ### Accessibility 
 
-All accessibility was checked using wave and all passed with only one alert to say there was an iframe on the page.
+All accessibility was checked using wave and all passed with only one alert to say there was an iframe on the page and screen shot can be viewed here:
 
 * [Accessibility](assets/images/accessibilityvalidator.png)
 
@@ -213,15 +213,57 @@ All accessibility was checked using wave and all passed with only one alert to s
 
  * Desktop 
 
-  All pages responsive and looked good on desktop
+  All pages responsive and tested good on desktop
 
 * Ipad
 
-  All pages responsive and was good on ipad
+  All pages responsive and tested good on ipad
 
 * Iphone 
 
-  All pages responsive and was good on iphone
+  All pages responsive and tested good on iphone
+
+### Device testing
+
+Tested on many devices and browsers. Android and Apple products all worked well and browsers like chrome and safari all tested good too. Using the am I responsive tool showed good reponsive layout on all devices.
+
+
+## Bugs and Solutions
+
+When testing on am I responsive the text for about us was pushed down into the opening times section.
+
+The fix for the issue was to use a smaller font in the media queries for smaller screens.
+
+## Deployment
+
+Deployment was done as follows:
+
+* In the Github repository click on the settings tab
+* Scroll down to the new git hub pages section and click the link "check it out here"
+* At the source section click the dropdown and pick main
+* Then click save
+* After you save it gives you a prompt that your git hub repository is ready to be published
+* Then you just refresh the page and your live link is ready to share
+
+
+## Credits
+
+* Images used were from [Pexels](https://www.pexels.com/)
+* [Youtube](https://www.youtube.com/) video was used on the home page
+
+
+### Acknoledgements
+
+* W3C and stack overflow for reference
+* Code Institute for course material
+* Slack community for help and a valuable resource for understanding problems and issues
+* My mentor Rahul Lakhanpal for his time and guidance.
+
+
+
+
+
+
 
 
 
