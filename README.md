@@ -172,3 +172,9 @@ I went for a yellow and black color design for my page I think the two contrast 
 The two fonts used were Audiowide and Merriweather, I think they compliment each other well and the Audiowide font I think is an especially good font for a music site.
 
 <img src="assets/images/fonts.png">
+
+### Buttons 
+
+<img src="assets/images/navhover.png">  <img src="assets/images/footerhover.png">
+
+All buttons on both the nav bar and footer all have a hover feature and change color when hovered over.
