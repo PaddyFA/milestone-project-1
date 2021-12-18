@@ -180,7 +180,7 @@ The two fonts used were Audiowide and Merriweather, I think they compliment each
 All buttons on both the nav bar and footer all have a hover feature and change color when hovered over.
 
 
-## Validation
+## Code Validation
 
 ### HTML:
 
@@ -204,6 +204,27 @@ All code was validated for css using W3c schools css valiadtor and you can view 
 All accessibility was checked using wave and all passed with only one alert to say there was an iframe on the page.
 
 * [Accessibility](assets/images/accessibilityvalidator.png)
+
+
+
+## Manual Testing
+
+ Testing was done using chrome dev tools:
+
+ * Desktop 
+
+  All pages responsive and looked good on desktop
+
+* Ipad
+
+  All pages responsive and was good on ipad
+
+* Iphone 
+
+  All pages responsive and was good on iphone
+
+
+
 
 
 
